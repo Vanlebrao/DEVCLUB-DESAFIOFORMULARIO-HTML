@@ -1,0 +1,146 @@
+* {
+  background-color: #f2e5d5;
+}
+
+.title-register {
+  position: absolute;
+  font-size: 20px;
+  font-weight: 300;
+  background-color: #f2e5d5;
+  color: #f25c84;
+  top: -2px;
+  margin: 3px 0 116px 20px;
+  padding: 0 3px;
+}
+
+.form {
+  border-style: solid;
+  border-color: #fefcfd;
+  margin: 13px;
+}
+
+.name {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+.input {
+  border-color: #fefcfd;
+  border-style: solid;
+}
+
+.email {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+.age {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+.date {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+#input-date {
+  border-color: #fefcfd;
+  border-style: solid;
+  color: #f25c84;
+}
+.social-media {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+.sex {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+.eyes {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+#color {
+  border-color: #fefcfd;
+  border-style: solid;
+}
+
+.bio {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+#info {
+  border-color: #fefcfd;
+  border-style: solid;
+}
+
+.photo-profile {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+#file {
+  border-color: #fefcfd;
+  border-style: solid;
+}
+
+.tel {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+.facebook {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+.password {
+  display: block;
+  color: #f25c84;
+  margin: 25px 15px;
+  font-size: 20px;
+}
+
+button {
+  margin: 0 15px 15px 15px;
+  border-color: #fefcfd;
+  width: 90px;
+  height: 70px;
+  font-size: 25px;
+  color: #f25c84;
+  cursor: pointer;
+}
+.reset:hover {
+  background-color: #a61c35;
+}
+
+.submit:hover {
+  background-color: #a61c35;
+}
