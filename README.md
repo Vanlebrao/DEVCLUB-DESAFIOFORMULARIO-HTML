@@ -24,7 +24,8 @@ O desafio contou com algumas regras:
 - [x] Alterar cores da borda de todos os inputs;
 - [x] Alterar a fonte do projeto para 'munito';
 - [x] Altertar o background do formulário;
-- [x] Alterar a cor e tamanho aos textos dos labels.
+- [x] Alterar a cor e tamanho aos textos dos labels;
+- [x] Cursor tipo pointer.
 
 
 ## 🤝 Mentores
